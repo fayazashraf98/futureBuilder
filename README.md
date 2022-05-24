@@ -1,16 +1,3 @@
-# futurebuilder
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Future Builder fetching Data from GitHub<h1>
+  <h6>Fetching image, location and Name form Github using FutureBuilder<h6>
+  <img src="https://user-images.githubusercontent.com/97346744/169964058-bc6e68be-78a3-462b-947a-18140b75782b.png"width="300px">
